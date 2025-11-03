@@ -1,0 +1,52 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "title": "MacBook Pro 16\"  ",
+      "description": "M2 Pro, 32GB RAM",
+      "imageUrl": "https://img.jabko.ua/image/cache/catalog/products/2023/10/310823/mbp16-spaceblack-2023-1397x1397.jpg.webp",
+      "price": 2799,
+      "createdAt": "2025-10-01T12:00:00.000Z"
+    },
+    {
+      "id": "918d",
+      "title": "Iphone Airr",
+      "description": "Air",
+      "price": 1500,
+      "imageUrl": "https://cdn.comfy.ua/media/catalog/product/cache/4/image/600x/9df78eab33525d08d6e5fb8d27136e95/3/5/35790001.jpg",
+      "createdAt": "2025-11-02T13:09:43.793Z"
+    },
+    {
+      "id": "f99c",
+      "title": "Apple iPad 11",
+      "description": "Apple iPad 11 (2025) 128GB Wi-Fi Blue (MD4A4)",
+      "price": 400,
+      "imageUrl": "https://touch.com.ua/upload/resize_cache/iblock/b75/500_500_1/h2oqfnbug7rsr4917jac6f74hhyqe3r3.jpg",
+      "createdAt": "2025-11-03T02:18:56.470Z"
+    },
+    {
+      "id": "b41f",
+      "title": "Apple Watch Series 10",
+      "description": "Apple Watch Series 10 GPS, 46mm Jet Black Aluminum Case with Black Sport Band (S/M) (MWWP3)",
+      "price": 400,
+      "imageUrl": "https://img.jabko.ua/image/cache/catalog/products/2024/09/100858/watch1-1397x1397.jpg.webp",
+      "createdAt": "2025-11-03T02:19:59.181Z"
+    },
+    {
+      "id": "ac3a",
+      "title": "AirPods Max",
+      "description": "Apple AirPods Max 2 (Midnight)",
+      "price": 600,
+      "imageUrl": "https://img.jabko.ua/image/cache/catalog/products/2024/09/092355/2-1397x1397.jpg.webp",
+      "createdAt": "2025-11-03T02:22:37.070Z"
+    },
+    {
+      "id": "0591",
+      "title": "Apple Vision Pro",
+      "description": "Apple Vision Pro (1TB)",
+      "price": 4000,
+      "imageUrl": "https://img.jabko.ua/image/cache/catalog/products/2023/06/052356/6%20(3)%20(1)-1397x1397.jpg.webp",
+      "createdAt": "2025-11-03T02:24:11.748Z"
+    }
+  ]
+}
